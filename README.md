@@ -47,15 +47,5 @@ Dependencies
         <PackageReference Include="SharpDX.DXGI" Version="4.2.0"/>
     </ItemGroup>
 
-Installation
-
-git clone https://github.com/sweeperxz/FullyExternalCS2.git
-cd FullyExternalCS2
-
-Starting the program
-
-dotnet build
-dotnet run
-
 Help
 If you have issues or have questions, check out the Issues section of the GitHub project page.
