@@ -1,6 +1,8 @@
 # CS2 EXTERNAL
 
-Краткое описание проекта: что делает, для кого предназначен.
+![cs2-aimbot-hacks-1400x788](https://github.com/user-attachments/assets/ec5e791d-1df9-442f-b5f6-514ad4c05659)
+![cs2-glove-changer-cheats-2048x1152](https://github.com/user-attachments/assets/b37715cc-15a7-4488-9b5e-b385f9f12092)
+
 
 ## Features
 AimBot
